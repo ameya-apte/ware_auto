@@ -11,8 +11,8 @@
 AsyncWebServer server(80);
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
-const char* ssid = "belkin.36f6";
-const char* password = "9833406765";
+const char* ssid = "username";
+const char* password = "password";
 
 const char* PARAM_INPUT_1 = "input1";
 const char* PARAM_INPUT_2 = "input2";
